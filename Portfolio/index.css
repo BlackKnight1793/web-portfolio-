@@ -1,0 +1,85 @@
+#navbar {
+  background-color: #765c3d !important;
+}
+#navbar-links li a {
+  color: #f2d2ae;
+  font-family: Montserrat;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 21.94px;
+}
+#landing {
+  background: linear-gradient(rgba(0, 0, 0, 0.59), rgba(0, 0, 0, 0.59)),
+    url(./images/banner.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+#landing-header {
+  font-family: Montserrat;
+  font-size: 64px;
+  font-weight: 600;
+  line-height: 72px;
+  letter-spacing: -0.02em;
+  color: #ffffff;
+}
+#landing-text {
+  font-family: Montserrat;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 30px;
+  color: #ffffff;
+}
+#landing-btn {
+  padding: 12px 32px 12px 32px;
+  border-radius: 999px;
+  background-color: #b59066;
+  font-family: Montserrat;
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 24px;
+  text-align: center;
+  color: #ffffff;
+}
+#about {
+  background-color: #ffffff;
+}
+
+#text-title {
+  font-family: Montserrat;
+  font-size: 40px;
+  font-weight: 600;
+  line-height: 48.76px;
+  color: #765c3d;
+}
+
+#about p {
+  color: #765c3d;
+  font-family: Montserrat;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 29.26px;
+}
+
+#gallery-header {
+  font-family: Montserrat;
+  font-size: 40px;
+  font-weight: 600;
+  line-height: 48.76px;
+  color: #765c3d;
+}
+#gallery-text {
+  font-family: Montserrat;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 29.26px;
+  color: #765c3d;
+}
+
+#tools h4 {
+  font-family: Montserrat;
+  font-size: 40px;
+  font-weight: 600;
+  line-height: 48.76px;
+  text-align: center;
+  color: #765c3d;
+}
